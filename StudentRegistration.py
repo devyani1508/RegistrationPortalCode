@@ -1,5 +1,5 @@
 ## OOPS PROJECT
-'''you are an admin of rgpv panel and we are creating  management site for student database management'''
+'''you are an admin of college panel and we are creating  management site for student database management'''
 import string
 import random
 from pathlib import Path
